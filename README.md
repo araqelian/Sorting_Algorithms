@@ -23,7 +23,7 @@
 <br><br>
 <h2>📂 Project Structure</h2>
 <pre>
-./
+Sorting_Algorithms/
 |
 ├── bubble_sort.cpp
 ├── bucket_sort.cpp
